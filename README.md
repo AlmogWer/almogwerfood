@@ -12,17 +12,18 @@ One pager food website built with HTML & CSS (Also JS for a few features)
 
 ## Links
 
-[Repo](https://github.com/almogwer/almogwerfood "Almogwerfood Repo")
-[Live](https://almogwer.github.io/almogwerfood/ "Live View")
+- [Repo](https://github.com/almogwer/almogwerfood "Almogwerfood Repo")
+- [Live](https://almogwer.github.io/almogwerfood/ "Live View")
 
 ## Screenshots
 
-![Home Page](img/Capture1.png "Home Page")
+![Home Page](img/Capture1.PNG "Home Page")
 
-![](/img/Capture2.png)
+![Testimonials + Gallery](/img/Capture2.PNG "Testimonials + Gallery")
 
-![](/img/Capture3.png)
+![Grid + Form](/img/Capture3.PNG "Grid + Form")
 
 ## Author
 
--[Almogwer](https://github.com/almogwer) -[Mail](mailto:Almogish@gmail.com?Subject=Hi% "Hi!")
+- [Almogwer](https://github.com/almogwer)
+- [Mail](mailto:Almogish@gmail.com?Subject=Hi% "Hi!")
