@@ -189,6 +189,12 @@
 /* Below 544 (Phones) */
 /* ********************** */
 @media (max-width: 34em) {
+  .logo {
+    height: 5rem;
+  }
+  .logo-col {
+    align-items: center;
+  }
   .grid {
     row-gap: 3.2rem;
   }

@@ -27,3 +27,4 @@ One pager food website built with HTML & CSS (Also JS for a few features)
 
 - [Almogwer](https://github.com/almogwer)
 - [Mail](mailto:Almogish@gmail.com?Subject=Hi% "Hi!")
+- [Linkedin](https://www.linkedin.com/in/almogwertzberger/)
